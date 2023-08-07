@@ -67,7 +67,7 @@ This project allows you to create custom content with a pikachu theme using the 
 
 Using this Widgetkit is straightforward. You can create new widgets in the admin panel and customize content with the pikachu theme. Drag and drop your widgets to place them in different sections of your site.
 
-## Contributin
+## Contributing
 
 If you'd like to contribute to the development of this pikachu Widgetkit, please fork the project on GitHub and make your changes.
 
